@@ -70,7 +70,7 @@ $(function(){
         // INJECT CSS
         var css = document.createElement("style");
         css.type = "text/css";
-        css.innerHTML = ".txt-rotate > .wrap { border-right: 0em solid #666 ; }";
+        css.innerHTML = ".txt-rotate > .wrap { border-right: 0em solid #667 ; }";
         document.body.appendChild(css);
       };
 })
